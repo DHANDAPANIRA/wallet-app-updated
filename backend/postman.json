@@ -1,4 +1,4 @@
-
+##Table details:
 
 -- USERS TABLE schema
 CREATE TABLE users (
@@ -19,9 +19,6 @@ CREATE TABLE transactions (
 );
 
 ## Postman collection:
-https://api.postman.com/collections/8628789-d3c551dd-ef77-4f55-978e-be9a483d95ef?access_key=PMAT-01K09A39WK15BCYE4H9YPCMFKC
-
-or json collection
 
 {
 	"info": {
