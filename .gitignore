@@ -1,0 +1,57 @@
+# Node modules
+node_modules/
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+
+# Sequelize
+sequelize-auto-output/
+migrations/
+seeders/
+
+# Database
+*.sqlite
+*.db
+*.pgsql
+
+# Frontend React
+frontend/node_modules/
+frontend/.env
+frontend/build/
+
+# VSCode
+.vscode/
+
+# IDEs
+.idea/
+*.swp
+
+# Coverage
+coverage/
+*.lcov
+
+# Runtime
+.pids
+*.pid
+
+# Misc
+*.tgz
+*.bak
+*.orig
+
+# Optional
+backend/.env
+backend/node_modules/
+backend/.cache
